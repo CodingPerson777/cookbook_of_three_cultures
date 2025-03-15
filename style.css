@@ -1,0 +1,67 @@
+h1 {
+    font-family:Artifika;
+    color:#704214;
+  }
+  
+  body {
+    background-color:lightgoldenrodyellow
+  }
+  
+  p {
+    font-family:Artifika;
+    color:darkgoldenrod;
+  }
+  
+  h3 {
+    display: flex;
+    justify-content:center;
+    font-size: 40px;
+    color:darkgreen;
+    font-family: Artifika;
+  }
+  
+  h4 {
+    font-size:30px;
+    font-family:Artifika;
+    color:#7B3F00;
+  }
+  
+  ul {
+    font-family:Artifika;
+    color:#7B3F00
+  }
+  
+  ol {
+    font-family:Artifika;
+    color:darkgoldenrod
+  }
+  
+  footer {
+    font-family:Artifika;
+    color:#7B3F00
+  }
+  
+  hr {
+    border: 2px solid #7B3F00;
+    margin: 10px;
+    border-color:
+  }
+  
+  .phi {
+        color:#0000ff
+    }
+  .lip {
+        color:#ff0000
+    }
+  .pi {
+        color:#fdfdfd
+    }
+  .nes {
+        color:#FFD700
+    }
+  
+  a {
+    text-decoration:none;
+  }
+  
+  
